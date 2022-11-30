@@ -1,0 +1,1 @@
+- 👋 Hi, I’m @shymuse! Currently learning, HTML, CSS and JavaScript to become a front end developer (:
